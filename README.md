@@ -1,6 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on font
 - 🌱 I’m currently learning react
+
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **hhhhhhjs/hhhhhhjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
