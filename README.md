@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,tailwindcss,nodejs,bun,ts,vite,webpack)](https://skillicons.dev)
 
-![暗色](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
