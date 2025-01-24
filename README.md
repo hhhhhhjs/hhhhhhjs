@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on font
+- 🌱 I’m currently learning react
 <!--
 **hhhhhhjs/hhhhhhjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
