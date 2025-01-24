@@ -5,5 +5,8 @@
 ### My skill stack 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,tailwindcss,nodejs,bun,ts,vite,webpack)](https://skillicons.dev)
-  
+
+![暗色](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/hhhhhhjs/hhhhhhjs/output/github-contribution-grid-snake.svg)
+
 </div>
